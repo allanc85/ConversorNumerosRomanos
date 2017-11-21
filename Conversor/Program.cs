@@ -5,7 +5,7 @@ namespace Conversor
 {
     public struct Base
     {
-        public int baseNumero;
+        public int baseNumero; 
         public string baseRomano;
     }
 
